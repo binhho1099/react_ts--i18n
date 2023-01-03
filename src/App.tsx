@@ -94,6 +94,7 @@ function App() {
       <Login />
       <hr />
       <I18next />
+      {/* <AppRouter /> */}
     </div>
   );
 }
