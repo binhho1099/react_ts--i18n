@@ -1,0 +1,83 @@
+{
+  "loginpage": {
+    "clicktologin": "Bấm để đăng nhập",
+    "USER_NOT_EXIST": "Tên đăng nhập hoặc mật khẩu sai",
+    "INVALID_ARGUMENTS": "Các đối số được cung cấp không hợp lệ",
+    "SUCCESS": "Đăng nhập thành công"
+  },
+  "test": {
+    "text": "Các văn bản đã được dịch sang ngôn ngữ"
+  },
+  "general": {
+    "titleWarning": "Cảnh báo giữ lại dữ liệu cũ",
+    "textKey": "khóa",
+    "textShowDuplicate": "Hiển thị dữ liệu trùng lặp",
+    "textConfirmDelete": "Xác nhận xóa",
+    "textDelete": "Xóa",
+    "textAdd": "Thêm",
+    "textEnterFirstname": "Nhập tên",
+    "textEnterSecondname": "Nhập tên thứ hai",
+    "textEnterPrefname": "Nhập tên khác",
+    "textEnterSurname": "Nhập họ",
+    "textClose": "Đóng",
+    "textCreateSuccess": "Tạo mới thành công",
+    "textCreateFail": "Tạo mới thất bại",
+    "textUpdateSuccess": "Cập nhật thành công",
+    "textUpdateFail": "Cập nhật thất bại",
+    "textContentExit": "Có dữ liệu trên biểu mẫu, bạn có muốn thoát không?",
+    "textConfirmExit": "Xác nhận thoát",
+    "textExit": "Thoát",
+    "textOther": "Khác",
+    "textFemale": "cái",
+    "textMale": "Đực",
+    "textCancel": "Hủy",
+    "textSave": "Lưu",
+    "msgPageNotFound": "không tìm thấy trang",
+    "Indeterminate": "Không xác định",
+    "Yes": "Có",
+    "No": "Không",
+    "Female": "Con cái",
+    "Male": "Con đực",
+    "Unknown": "Không xác định",
+    "msgDelete": "Xóa",
+    "btnDelete": "Xóa",
+    "btnExit": "Thoát",
+    "deleteSuccess": "Xóa thành công",
+    "deleteProblem": "Xóa có vấn đề",
+    "deleteCannot": "Không thể xóa",
+    "deleteFailed": "Xóa thất bại",
+    "no": "STT",
+    "importAt": "Ngày Import",
+    "createdAt": "Ngày thêm",
+    "createdBy": "Được tạo bởi",
+    "updatedAt": "Được cập nhật lúc",
+    "action": "Hành động",
+    "code": "Mã"
+  },
+  "globalnavigation": {
+    "item": {
+      "setting": "Cài đặt",
+      "profile": "Trang cá nhân",
+      "clinic": "Phòng khám bệnh",
+      "group": "Nhóm"
+    },
+    "description": {
+      "unauthenticated": "bạn chưa thể chuyển hướng tới các trang này vì bạn chưa đăng nhập",
+      "authenticated": "bạn đã có thể chuyển hướng tới các trang này"
+    },
+    "version": "Phiên bản",
+    "textLogout": "Đăng xuất"
+  },
+  "loading": "Đang tải dữ liệu",
+  "select": "Chọn",
+  "error": {
+    "error_update": "Có lỗi khi cập nhật dữ liệu!",
+    "can_not_update": "Không thể cập nhật dữ liệu",
+    "can_not_delete": "Không thể xóa",
+    "connection_fail": "Rớt mạng"
+  },
+  "notFound": {
+    "textContact": "Không load được trang, liên hệ nhân viên IT để biết thêm chi tiết hoặc",
+    "textReload": "reload lại page"
+  }
+}

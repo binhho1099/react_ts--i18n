@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  display: block;
+  padding: 5px 10px;
+  margin: 10px auto;
+  color: #fff;
+  min-width: 200px;
+}
+
+.btn.google {
+  background-color: #de5246;
+}
+.btn.facebook {
+  background-color: #3b5998;
+}
+.btn.twitter {
+  background-color: #00acee;
+}
+.btn.github {
+  background-color: #000;
+}

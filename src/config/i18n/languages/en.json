@@ -1,0 +1,83 @@
+{
+  "loginpage": {
+    "clicktologin": "Click to login",
+    "USER_NOT_EXIST": "Account or password is incorrect",
+    "INVALID_ARGUMENTS": "Invalid arguments provided",
+    "SUCCESS": "Logged in successfully"
+  },
+  "test": {
+    "text": "The text has been translated into the language"
+  },
+  "general": {
+    "titleWarning": "Warning keep old data",
+    "textKey": "Key",
+    "textShowDuplicate": "Show duplicate",
+    "textConfirmDelete": "Confirm exit",
+    "textDelete": "Delete",
+    "textAdd": "Add",
+    "textEnterFirstname": "Enter First name",
+    "textEnterSecondname": "Enter Second name",
+    "textEnterPrefname": "Enter preference name",
+    "textEnterSurname": "Enter Surname",
+    "textClose": "Close",
+    "textCreateSuccess": "Create success",
+    "textCreateFail": "Create fail",
+    "textUpdateSuccess": "Update success",
+    "textUpdateFail": "Update fail",
+    "textContentExit": "There is data on the form, do you want to exit?",
+    "textConfirmExit": "Confirm exit",
+    "textExit": "Exit",
+    "textOther": "Other",
+    "textFemale": "Female",
+    "textMale": "Male",
+    "textCancel": "Cancel",
+    "textSave": "Save",
+    "msgPageNotFound": "Page not found",
+    "Indeterminate": "Indeterminate",
+    "Yes": "Yes",
+    "No": "No",
+    "Female": "Female",
+    "Male": "Male",
+    "Unknown": "Unknown",
+    "msgDelete": "Delete",
+    "btnDelete": "Delete",
+    "btnExit": "Exit",
+    "deleteSuccess": "Delete success",
+    "deleteProblem": "Delete have problem",
+    "deleteCannot": "Can not delete",
+    "deleteFailed": "Delete Failed",
+    "importAt": "Imported At",
+    "createdAt": "Created At",
+    "createdBy": "Created By",
+    "updatedAt": "Updated At",
+    "no": "No",
+    "action": "Action",
+    "code": "Code"
+  },
+  "globalnavigation": {
+    "item": {
+      "setting": "Setting",
+      "profile": "Profile",
+      "clinic": "Clinic",
+      "group": "Group"
+    },
+    "description": {
+      "unauthenticated": "you should not be able to navigate because you are not authenticated yet",
+      "authenticated": "you should now be able to navigate to protected route"
+    },
+    "version": "Version",
+    "textLogout": "Logout"
+  },
+  "loading": "Loading",
+  "select": "Select",
+  "error": {
+    "error_update": "An error occurred while updating data",
+    "can_not_update": "Can not updating data",
+    "can_not_delete": "Can not delete",
+    "connection_fail": "Connection failed"
+  },
+  "notFound": {
+    "textContact": "The page cannot be loaded, contact IT staff for more details or",
+    "textReload": "reload the page"
+  }
+}
